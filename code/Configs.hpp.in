@@ -1,0 +1,5 @@
+namespace ViScope
+{
+    constexpr int VERSION_MAJOR = @VirtualOscilloscope_VERSION_MAJOR@;
+    constexpr int VERSION_MINOR = @VirtualOscilloscope_VERSION_MINOR@;
+}
